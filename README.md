@@ -22,4 +22,4 @@ example:
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[Apache License 2.0](https://github.com/MacHatter1/findpigeon-nodejs/blob/main/LICENSE)
